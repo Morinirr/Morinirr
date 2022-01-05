@@ -1,4 +1,4 @@
-### Ola eu sou Andre Morinigo 👋
+### Ola,eu sou Andre Morinigo 👋
 
 :beginner: Estudando....
 
