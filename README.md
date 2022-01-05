@@ -1,5 +1,5 @@
 ### Ola eu sou Andre Morinigo 👋
 
-Estudando....
+:beginner: Estudando....
 
-focado em FrontEnd.
+Focado em FrontEnd.
