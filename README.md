@@ -6,4 +6,4 @@ Focado em FrontEnd.
 
 
 
-![](https://komarev.com/ghpvc/?Morinirr=your-github-Morinirr)
+![](https://komarev.com/ghpvc/?username=your-github-username)
